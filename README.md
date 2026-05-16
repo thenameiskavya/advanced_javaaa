@@ -8,3 +8,10 @@ SwingExample   :https://github.com/user-attachments/assets/56a4cf7a-b72e-4350-b1
 
 
 StringOperationsDemo : https://github.com/user-attachments/assets/760f997c-641e-40c7-9a7f-ad074287fb2
+
+
+performanceTest : https://github.com/user-attachments/assets/60febed1-9a16-47a7-bb25-a0566360201
+
+RemoveColor : https://github.com/user-attachments/assets/e6ce4eb5-99b9-4bce-97bd-65209b8e1aa5
+
+
