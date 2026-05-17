@@ -20,3 +20,5 @@ SearchColor :https://github.com/user-attachments/assets/0bf48380-6051-44b8-ac07-
 
 
 TabbedPaneDemo  :https://github.com/user-attachments/assets/3094d163-bfb6-4533-9925-e33bed6c3deb
+
+TabbedPaneColour  : https://github.com/user-attachments/assets/8bc8e0fc-395f-4865-80b3-6a294579ca69
